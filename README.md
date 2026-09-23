@@ -1,16 +1,14 @@
-## Hi there 👋
+# Syed Ahad Haider
 
-<!--
-**syedahadhaider/syedahadhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web & Python Developer working toward a BS in Cybersecurity.
+I build websites with React and Next.js, and publish Python/Streamlit
+projects. My repositories document their setup, scope and limitations.
 
-Here are some ideas to get you started:
+**Portfolio and case studies:** https://syedahadhaider.com
+**LinkedIn:** https://www.linkedin.com/in/syedahadhaider/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What's here
+- **Web** — React and Next.js storefronts and editorial sites
+- **Python** — Streamlit applications for local data and session state
+
+Every project states what it does and what it deliberately doesn't.
